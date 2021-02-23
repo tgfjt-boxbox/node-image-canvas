@@ -1,0 +1,12 @@
+{
+  "name": "node-image-canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tgfjt-boxbox/node-image-canvas",
+  "author": "Takashi Fujita <tgfjt.mail@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "konva-node": "^0.11.2"
+  }
+}
